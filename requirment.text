@@ -1,0 +1,11 @@
+streamlit
+xlwings
+pandas
+pathlib
+os
+win32com
+Pillows
+json
+request
+Flask
+Turtle
